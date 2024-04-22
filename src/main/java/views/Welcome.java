@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class Welcome {
     public void welcomeScreen() {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Wlcome to the app");
+        System.out.println("Welcome to the app");
         System.out.println("Press 1 to login");
         System.out.println("Press 2 to signup");
         System.out.println("Press 0 to exit");
